@@ -139,6 +139,7 @@ public class BullyNode implements Serializable, BullyNodeInterface {
 	 *
 	 */
 	public String print(String  s) throws RemoteException {
+		System.out.println("new line");
 		return s;
 	}
 
