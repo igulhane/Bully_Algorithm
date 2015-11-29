@@ -6,6 +6,7 @@
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.HashMap;
+import java.io.*;
 
 /**
  * Interface for the client node
